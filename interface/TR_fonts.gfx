@@ -1,0 +1,305 @@
+bitmapfonts = {
+	bitmapfont = {
+		name = "hoi_16mbs"
+		fontfiles = {
+			"gfx/fonts/16px/16px"
+		}
+		color = 0xffffffff
+
+		textcolors = {
+			G = { 86 172 91 }
+			R = { 222 86 70 }
+			Y = { 238 201 35 }
+			H = { 238 201 35 }
+			T = { 255 255 255 }
+		}
+	}
+	bitmapfont = {
+		name = "hoi_18"
+		fontfiles = {
+			"gfx/fonts/18px/18px"
+		}
+		color = 0xffffffff
+
+		textcolors = {
+			G = { 86 172 91 }
+			R = { 222 86 70 }
+			Y = { 238 201 35 }
+			H = { 238 201 35 }
+			T = { 255 255 255 }
+		}
+	}
+	bitmapfont = {
+		name = "hoi_18b"
+		fontfiles = {
+			"gfx/fonts/18px/18pxb"
+		}
+		color = 0xffffffff
+
+		textcolors = {
+			G = { 86 172 91 }
+			R = { 222 86 70 }
+			Y = { 238 201 35 }
+			H = { 238 201 35 }
+			T = { 255 255 255 }
+		}
+	}
+	bitmapfont = {
+		name = "hoi_18mbs"
+		fontfiles = {
+			"gfx/fonts/18px/18pxmbs"
+		}
+		color = 0xffffffff
+
+		textcolors = {
+			G = { 86 172 91 }
+			R = { 222 86 70 }
+			Y = { 238 201 35 }
+			H = { 238 201 35 }
+			T = { 255 255 255 }
+		}
+	}
+	bitmapfont = {
+		name = "hoi_20"
+		fontfiles = {
+			"gfx/fonts/20px/20px"
+		}
+		color = 0xffffffff
+
+		textcolors = {
+			G = { 86 172 91 }
+			R = { 222 86 70 }
+			Y = { 238 201 35 }
+			H = { 238 201 35 }
+			T = { 255 255 255 }
+		}
+	}
+	bitmapfont = {
+		name = "hoi_20b"
+		fontfiles = {
+			"gfx/fonts/20px/20pxb"
+		}
+		color = 0xffffffff
+
+		textcolors = {
+			G = { 86 172 91 }
+			R = { 222 86 70 }
+			Y = { 238 201 35 }
+			H = { 238 201 35 }
+			T = { 255 255 255 }
+		}
+	}
+	bitmapfont = {
+		name = "hoi_20bs"
+		fontfiles = {
+			"gfx/fonts/20px/20pxbs"
+		}
+		color = 0xffffffff
+
+		textcolors = {
+			G = { 86 172 91 }
+			R = { 222 86 70 }
+			Y = { 238 201 35 }
+			H = { 238 201 35 }
+			T = { 255 255 255 }
+		}
+	}
+	bitmapfont = {
+		name = "hoi4_typewriter16"
+		fontfiles = {
+			"gfx/fonts/16px/16pxtw"
+		}
+		color = 0xff000000
+
+		textcolors = {
+			G = { 86 172 91 }
+			R = { 238 0 0 }
+			Y = { 238 201 35 }
+			H = { 238 201 35 }
+			T = { 255 255 255 }
+		}
+	}
+	bitmapfont = {
+		name = "hoi4_typewriter16_inverted"
+		fontfiles = {
+			"gfx/fonts/16px/16pxtw_inv"
+		}
+		color = 0xff000000
+
+		textcolors = {
+			G = { 86 172 91 }
+			R = { 238 0 0 }
+			Y = { 238 201 35 }
+			H = { 238 201 35 }
+			T = { 255 255 255 }
+		}
+	}
+	bitmapfont = {
+		name = "hoi4_typewriter22"
+		fontfiles = {
+			"gfx/fonts/22px/22pxtw"
+		}
+		color = 0xff000000
+
+		textcolors = {
+			G = { 86 172 91 }
+			R = { 238 0 0 }
+			Y = { 238 201 35 }
+			H = { 238 201 35 }
+			T = { 255 255 255 }
+		}
+	}
+	bitmapfont = {
+		name = "hoi4_typewriter22_inverted"
+		fontfiles = {
+			"gfx/fonts/22px/22pxtw_inv"
+		}
+		color = 0xff000000
+
+		textcolors = {
+			G = { 86 172 91 }
+			R = { 238 0 0 }
+			Y = { 238 201 35 }
+			H = { 238 201 35 }
+			T = { 255 255 255 }
+		}
+	}
+	bitmapfont = {
+		name = "hoi_24header"
+		fontfiles = {
+			"gfx/fonts/24px/24pxheader"
+		}
+		color = 0xff000000
+
+		textcolors = {
+			G = { 86 172 91 }
+			R = { 238 0 0 }
+			Y = { 238 201 35 }
+			H = { 238 201 35 }
+			T = { 255 255 255 }
+		}
+	}
+	bitmapfont = {
+		name = "hoi_30header"
+		fontfiles = {
+			"gfx/fonts/30px/30pxheader-0"
+			"gfx/fonts/30px/30pxheader-1"
+		}
+		color = 0xff000000
+
+		textcolors = {
+			G = { 86 172 91 }
+			R = { 238 0 0 }
+			Y = { 238 201 35 }
+			H = { 238 201 35 }
+			T = { 255 255 255 }
+		}
+	}
+	bitmapfont = {
+		name = "hoi_36header"
+		fontfiles = {
+			"gfx/fonts/36px/36px-0"
+			"gfx/fonts/36px/36px-1"
+		}
+		color = 0xffffffff
+
+		textcolors = {
+			G = { 86 172 91 }
+			R = { 222 86 70 }
+			Y = { 238 201 35 }
+			H = { 238 201 35 }
+			T = { 255 255 255 }
+		}
+	}
+	bitmapfont = {
+		name = "hoi_22tech"
+		fontfiles = {
+			"gfx/fonts/22px/22pxtech"
+		}
+		color = 0xff000000
+
+		textcolors = {
+			G = { 86 172 91 }
+			R = { 238 0 0 }
+			Y = { 238 201 35 }
+			H = { 238 201 35 }
+			T = { 255 255 255 }
+		}
+	}
+	bitmapfont = {
+		name = "hoi_22chat"
+		fontfiles = {
+			"gfx/fonts/22px/22pxtech"
+		}
+		color = 0xff000000
+
+		textcolors = {
+			G = { 86 172 91 }
+			R = { 238 0 0 }
+			Y = { 238 201 35 }
+			H = { 238 201 35 }
+			T = { 255 255 255 }
+		}
+	}
+	bitmapfont = {
+		name = "hoi_33"
+		fontfiles = {
+			"gfx/fonts/33px/33px-0"
+			"gfx/fonts/33px/33px-1"
+			"gfx/fonts/33px/33px-2"
+		}
+		color = 0xff000000
+
+		textcolors = {
+			G = { 86 172 91 }
+			R = { 238 0 0 }
+			Y = { 238 201 35 }
+			H = { 238 201 35 }
+			T = { 255 255 255 }
+		}
+	}
+	bitmapfont = {
+		name = "hoi_arrow_font"
+		fontfiles = {
+			"gfx/fonts/40px/arrow-0"
+			"gfx/fonts/40px/arrow-1"
+			"gfx/fonts/40px/arrow-2"
+		}
+		color = 0xff000000
+
+		textcolors = {
+			G = { 86 172 91 }
+			R = { 238 0 0 }
+			Y = { 238 201 35 }
+			H = { 238 201 35 }
+			T = { 255 255 255 }
+		}
+	}
+	bitmapfont = {
+		name = "tahoma_60"
+		fontfiles = {
+			"gfx/fonts/75px/map4-0"
+			"gfx/fonts/75px/map4-1"
+			"gfx/fonts/75px/map4-2"
+			"gfx/fonts/75px/map4-3"
+			"gfx/fonts/75px/map4-4"
+			"gfx/fonts/75px/map4-5"
+			"gfx/fonts/75px/map4-6"
+			"gfx/fonts/75px/map4-7"
+			"gfx/fonts/75px/map4-8"
+			"gfx/fonts/75px/map4-9"
+			"gfx/fonts/75px/map4-10"
+			"gfx/fonts/75px/map4-11"
+			"gfx/fonts/75px/map4-12"
+		}
+		color = 0xff000000
+
+		textcolors = {
+			G = { 86 172 91 }
+			R = { 238 0 0 }
+			Y = { 238 201 35 }
+			H = { 238 201 35 }
+			T = { 255 255 255 }
+		}
+	}
+}
