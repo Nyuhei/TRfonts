@@ -124,7 +124,7 @@ bitmapfonts = {
 		fontfiles = {
 			"gfx/fonts/16px/16pxtw_inv"
 		}
-		color = 0xff000000
+		color = 0xffffffff
 
 		textcolors = {
 			G = { 86 172 91 }
@@ -154,7 +154,7 @@ bitmapfonts = {
 		fontfiles = {
 			"gfx/fonts/22px/22pxtw_inv"
 		}
-		color = 0xff000000
+		color = 0xffffffff
 
 		textcolors = {
 			G = { 86 172 91 }
@@ -169,8 +169,8 @@ bitmapfonts = {
 		fontfiles = {
 			"gfx/fonts/24px/24pxheader"
 		}
-		color = 0xff000000
-
+		color = 0xffffffff
+		cursor_offset = { 0 4 }
 		textcolors = {
 			G = { 86 172 91 }
 			R = { 238 0 0 }
@@ -185,7 +185,7 @@ bitmapfonts = {
 			"gfx/fonts/30px/30pxheader-0"
 			"gfx/fonts/30px/30pxheader-1"
 		}
-		color = 0xff000000
+		color = 0xffffffff
 
 		textcolors = {
 			G = { 86 172 91 }
@@ -216,7 +216,7 @@ bitmapfonts = {
 		fontfiles = {
 			"gfx/fonts/22px/22pxtech"
 		}
-		color = 0xff000000
+		color = 0x44ffffff
 
 		textcolors = {
 			G = { 86 172 91 }
@@ -231,7 +231,7 @@ bitmapfonts = {
 		fontfiles = {
 			"gfx/fonts/22px/22pxtech"
 		}
-		color = 0xff000000
+		color = 0x44ffffff
 
 		textcolors = {
 			G = { 86 172 91 }
@@ -248,7 +248,7 @@ bitmapfonts = {
 			"gfx/fonts/33px/33px-1"
 			"gfx/fonts/33px/33px-2"
 		}
-		color = 0xff000000
+		color = 0x44ffffff
 
 		textcolors = {
 			G = { 86 172 91 }
@@ -265,7 +265,7 @@ bitmapfonts = {
 			"gfx/fonts/40px/arrow-1"
 			"gfx/fonts/40px/arrow-2"
 		}
-		color = 0xff000000
+		color = 0x44ffffff
 
 		textcolors = {
 			G = { 86 172 91 }
@@ -292,7 +292,7 @@ bitmapfonts = {
 			"gfx/fonts/75px/map4-11"
 			"gfx/fonts/75px/map4-12"
 		}
-		color = 0xff000000
+		color = 0x44ffffff
 
 		textcolors = {
 			G = { 86 172 91 }
