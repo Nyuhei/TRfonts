@@ -305,7 +305,7 @@ bitmapfonts = {
 	bitmapfont = {
 		name = "cg_16b"
 		fontfiles = {
-			"gfx/fonts/16px/16pxtt" 
+			"gfx/fonts/16px/16pxtt"
 		}
 		color = 0xffffffff
 	}
