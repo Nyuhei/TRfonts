@@ -4,4 +4,4 @@ tags={
 }
 name="TR fonts"
 supported_version="1.13.6"
-remote_file_id="3105877767"
+remote_file_id="3140631923"
