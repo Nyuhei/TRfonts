@@ -313,8 +313,8 @@ bitmapfonts = {
 	bitmapfont = {
 		name = "TR_map_20"
 		fontfiles = {
-			"gfx/fonts/20px/20px_map-1.fnt"
-			"gfx/fonts/20px/20px_map-2.fnt"
+			"gfx/fonts/20px/20px_map-1"
+			"gfx/fonts/20px/20px_map-2"
 		}
 		color = 0xffffffff
 
