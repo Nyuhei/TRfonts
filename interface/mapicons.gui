@@ -607,8 +607,8 @@ guiTypes = {
 			position = { x=26 y=5 }
 			font = "TR_map_20"
 			text = ""
-			maxWidth = 149
-			maxHeight = 30
+			maxWidth = 160
+			maxHeight = 45
 			format = left
 			alwaystransparent = yes
 		}
