@@ -3,5 +3,5 @@ tags={
 	"Graphics"
 }
 name="+TR fonts"
-supported_version="1.13.7"
+supported_version="1.114.2"
 remote_file_id="3140631923"
